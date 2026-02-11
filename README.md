@@ -1,14 +1,35 @@
-Machine Learning Lab 2
-Problem Description
+# Lab 2: Customer Churn Prediction
 
-This project predicts customer churn using a classification approach.
+## Dataset
+Customer Churn Dataset  
+Source: Kaggle https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-Dataset
-Customer churn dataset from Kaggle.
+Problem Type: Classification  
+Target Variable: Churn
 
-Methodology
-Diagram generated using AI.
+---
 
-Part 2: Choosing an Open Dataset
+## Problem Statement
 
-I selected a customer churn dataset from Kaggle. The dataset contains customer information such as account details, service usage, and churn status. This dataset is suitable for a classification problem because it includes a clear target variable (Churn) and structured tabular data.
+The goal of this project is to predict whether a customer will leave a service based on their account and usage information. The model classifies customers into churn or not churn using historical customer data.
+
+---
+
+## Description
+
+This dataset contains customer account information, service usage details, and churn status. It can be used for classification and customer behavior analysis. The dataset helps companies identify customers at risk of leaving and improve retention strategies.
+
+---
+
+## Files Included
+
+- Jupyter Notebook for loading and inspecting the dataset (created using Google Colab)
+- Methodology diagram showing the Machine Learning workflow
+- Dataset description and problem definition
+
+---
+
+## AI Assistance
+
+The methodology diagram and explanations were created with the help of ChatGPT.
+
